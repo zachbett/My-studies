@@ -71,7 +71,7 @@ Config = {
         -- Configure HERE in the code (the UI has no customization fields anymore).
         -- Use just the number (e.g. "1234567890") or "rbxassetid://1234567890"
         ToggleImage = "139193750942654",        -- icon of the open/close button (empty = letter F)
-        BackgroundImage = "130143515695779",    -- UI background (empty = plain black)
+        BackgroundImage = "134924508387467",    -- UI background (empty = plain black)
         BackgroundDim = 0.45,    -- dims the background when an image is set (0 = no dimming)
     
         RefreshInterval = 10,    -- seconds between account reads
