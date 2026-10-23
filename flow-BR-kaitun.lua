@@ -70,7 +70,7 @@ Config = {
     
         -- Configure HERE in the code (the UI has no customization fields anymore).
         -- Use just the number (e.g. "1234567890") or "rbxassetid://1234567890"
-        ToggleImage = "118194881320262",        -- icon of the open/close button (empty = letter F)
+        ToggleImage = "139193750942654",        -- icon of the open/close button (empty = letter F)
         BackgroundImage = "130143515695779",    -- UI background (empty = plain black)
         BackgroundDim = 0.45,    -- dims the background when an image is set (0 = no dimming)
     
